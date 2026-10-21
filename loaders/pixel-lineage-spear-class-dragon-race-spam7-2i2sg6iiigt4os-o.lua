@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/pixel-lineage-spear-class-dragon-race-spam7-2i2sg6iiigt4os.lua"))()
