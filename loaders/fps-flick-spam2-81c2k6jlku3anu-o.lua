@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/fps-flick-spam2-81c2k6jlku3anu.lua"))()
