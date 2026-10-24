@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/motel-maniac-horror-spam3-jpn9mmbamb7eou.lua"))()
