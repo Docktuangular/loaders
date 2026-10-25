@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/upd-1-pixel-basketball-spam7-1ljx5gluodarnh.lua"))()
