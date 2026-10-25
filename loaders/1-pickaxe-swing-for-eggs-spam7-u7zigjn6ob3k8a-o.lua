@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/1-pickaxe-swing-for-eggs-spam7-u7zigjn6ob3k8a.lua"))()
