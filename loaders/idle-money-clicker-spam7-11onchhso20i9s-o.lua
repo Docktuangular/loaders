@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/idle-money-clicker-spam7-11onchhso20i9s.lua"))()
