@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/pt-3-huss-valley-spam4-ak1l7j9lo6m7n4.lua"))()
