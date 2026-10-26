@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/a-long-flight-sandbox-spam6-yll924ivou768f.lua"))()
