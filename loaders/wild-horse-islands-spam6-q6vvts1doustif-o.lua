@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/wild-horse-islands-spam6-q6vvts1doustif.lua"))()
